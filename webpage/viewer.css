@@ -49,9 +49,9 @@ li {
 	list-style-image: url(http://www.cs.washington.edu/education/courses/cse190m/09sp/labs/3-music/playlisticon.gif);
 }
 
-#return {
-	list-style-image: url(back.gif);
-}
+/*#return {*/
+/*	list-style-image: url(back.gif);*/
+/*}*/
 
 ul {
 	margin-bottom: 0.5em;
